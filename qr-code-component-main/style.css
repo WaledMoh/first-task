@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Outfit', sans-serif;
+}
+
+.custom-font {
+  font-size: 14px;
+}
+
+
+
+.imgwidth{
+  max-width: 90%; height: auto;
+  margin: 0 auto;
+  padding-top: 1rem;
+}
+
+.backgroundc{
+  background-color: #d5e1ef ;
+}
